@@ -1,0 +1,185 @@
+{
+    "coffees": [
+      {
+        "id": 1,
+        "name": "Pour Over",
+        "image": "/images/1.png",
+        "price": 4.79,
+        "intensity": "medium",
+        "roast": "light",
+        "rating": 4.9,
+        "description": "A manual brewing method where hot water is poured over coffee grounds."
+      },
+      {
+        "id": 2,
+        "name": "Vienna",
+        "image": "/images/2.png",
+        "price": 4.29,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.9,
+        "description": "A Spanish-style coffee consisting of equal parts espresso and cream."
+      },
+      {
+        "id": 3,
+        "name": "Affogato",
+        "image": "/images/3.png",
+        "price": 4.49,
+        "intensity": "medium",
+        "roast": "light",
+        "rating": 4.9,
+        "description": "A dessert-style coffee with a scoop of vanilla ice cream drowned in espresso."
+      },
+      {
+        "id": 4,
+        "name": "Ristretto",
+        "image": "/images/4.png",
+        "price": 3.29,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.8,
+        "description": "A short and intense shot of espresso brewed with less water."
+      },
+      {
+        "id": 5,
+        "name": "Lungo",
+        "image": "/images/5.png",
+        "price": 3.49,
+        "intensity": "medium",
+        "roast": "medium",
+        "rating": 4.8,
+        "description": "A long shot of espresso brewed with more water for a lighter flavor."
+      },
+      {
+        "id": 6,
+        "name": "French Press",
+        "image": "/images/6.png",
+        "price": 4.79,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.8,
+        "description": "Coarsely ground coffee steeped in hot water and pressed with a plunger."
+      },
+      {
+        "id": 7,
+        "name": "Latte",
+        "image": "/images/7.png",
+        "price": 3.49,
+        "intensity": "mild",
+        "roast": "light",
+        "rating": 4.7,
+        "description": "Smooth espresso combined with steamed milk and a light foam top."
+      },
+      {
+        "id": 8,
+        "name": "Flat White",
+        "image": "/images/8.png",
+        "price": 3.99,
+        "intensity": "medium",
+        "roast": "medium",
+        "rating": 4.7,
+        "description": "Similar to a latte but with less foam, providing a stronger coffee taste."
+      },
+      {
+        "id": 9,
+        "name": "Macchiato",
+        "image": "/images/9.png",
+        "price": 3.29,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.6,
+        "description": "Espresso 'stained' with a small amount of steamed milk."
+      },
+      {
+        "id": 10,
+        "name": "Mocha",
+        "image": "/images/10.png",
+        "price": 4.29,
+        "intensity": "medium",
+        "roast": "medium",
+        "rating": 4.6,
+        "description": "A decadent blend of espresso, steamed milk, and chocolate syrup."
+      },
+      {
+        "id": 11,
+        "name": "Irish Coffee",
+        "image": "/images/11.png",
+        "price": 5.49,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.5,
+        "description": "Hot coffee with Irish whiskey, sugar, and a layer of cream on top."
+      },
+      {
+        "id": 12,
+        "name": "Vietnamese Iced Coffee",
+        "image": "/images/12.png",
+        "price": 4.29,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.5,
+        "description": "Strong brewed coffee mixed with sweetened condensed milk and ice."
+      },
+      {
+        "id": 13,
+        "name": "Cappuccino",
+        "image":"/images/13.png",
+        "price": 3.49,
+        "intensity": "medium",
+        "roast": "light",
+        "rating": 4.4,
+        "description": "Espresso topped with a thick layer of steamed milk foam."
+      },
+      {
+        "id": 14,
+        "name": "Americano",
+        "image": "/images/14.png",
+        "price": 2.49,
+        "intensity": "mild",
+        "roast": "light",
+        "rating": 4.3,
+        "description": "Espresso diluted with hot water, similar in strength to drip coffee."
+      },
+      {
+        "id": 15,
+        "name": "Turkish Coffee",
+        "image": "/images/15.png",
+        "price": 3.99,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.2,
+        "description": "Finely ground coffee brewed with water and sugar in a small pot."
+      },
+      {
+        "id": 16,
+        "name": "AeroPress",
+        "image": "/images/16.png",
+        "price": 4.99,
+        "intensity": "medium",
+        "roast": "medium",
+        "rating": 4.1,
+        "description": "A manual coffee brewing method using air pressure to extract flavor."
+      },
+      {
+        "id": 17,
+        "name": "Espresso",
+        "image":"/images/17.png",
+        "price": 2.99,
+        "intensity": "bold",
+        "roast": "dark",
+        "rating": 4.0,
+        "description": "A strong and bold coffee with a rich crema layer."
+      },
+      {
+        "id": 18,
+        "name": "Frappuccino",
+        "image": "/images/18.png",
+        "price": 5.49,
+        "intensity": "mild",
+        "roast": "light",
+        "rating": 3.9,
+        "description": "A blended iced coffee drink with milk, sugar, and flavorings."
+      }
+    ]
+  }
+  
