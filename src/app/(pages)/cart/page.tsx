@@ -40,7 +40,7 @@ export default function Cart() {
     toast("Order placed successfully!", {
       position: "top-right",
       description: "Thank you for shopping with us, your coffee is on the way!",
-      important: true,
+      
       className: "bg-secondary",
     });
 
