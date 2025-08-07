@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "json-server --watch db.json --port 10000",
     "lint": "next lint",
     "format": "prettier --check --ignore-path .gitignore .",
     "format:fix": "prettier --write --ignore-path .gitignore ."
@@ -33,7 +33,8 @@
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.0",
-    "zustand": "^4.5.7"
+    "zustand": "^4.5.7",
+    "json-server": "^0.17.3"
   },
   "devDependencies": {
     "@types/node": "^20",
